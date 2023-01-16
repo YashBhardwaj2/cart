@@ -1,0 +1,27 @@
+.navbar{
+    margin: 0px;
+    height: 10vh;
+    width: 100vw;
+    background-color: blue;
+}
+.cart{
+    position: absolute;
+    right: 40px;
+    top: 20px;
+}
+.cart_icon{
+    display: block;
+    height: 35px;
+    margin: auto;
+}
+.count{
+    display: inline-block;
+    position: relative;
+    top: -44px;
+    left: 20px;
+    height: 18px;
+    width: 18px;
+    background-color: yellow;
+    border-radius: 50%;
+    text-align: center;
+}
